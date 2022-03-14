@@ -49,7 +49,9 @@ To view the analysis, clone the repository using "git clone <link>" and then nav
 ---
 
 ## Summary & Conclusions
+In regards to the SMA fast, and slow, the SMA decreased slightly for the slow window in comparison to the fast window. Increasing the window lessend the variance, and decreasing the window, improved variance. 
 
+In regards to the classification report, the accuracy is quite poor and was oversampled. The f1 score increased drastically which dictates an inaccurate model and would require further testing to improve predictability. 
 
 ---
 
